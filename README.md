@@ -1,6 +1,6 @@
 # ABOUT
 This repository contains supplementary materials for the publication:
-Dorst, Aletta G., Nas, Mayra O., and Zeven. Katinka (2026). "Metaphors in Literary Post-Editing: Opening Pandora's Box". EAMT conference 2026.
+Dorst, Aletta G., Nas, Mayra O., and Zeven, Katinka (2026). "Metaphors in Literary Post-Editing: Opening Pandora's Box". EAMT conference 2026.
 
 If you use this repository, please cite accordingly.
 

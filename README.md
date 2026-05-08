@@ -21,7 +21,7 @@ The data for this publication were collected with financial support from the Eur
 
 # ETHICAL CONSIDERATIONS  
 A subset of the data and materials associated with this study is publicly available in this repository. Some materials are not openly shared because they: 
-- include potentially identifiable participant data
-- form part of ongoing research and future publications
+- Include potentially identifiable participant data
+- Form part of ongoing research and future publications
 To comply with ethical considerations and privacy requirements, interview audio recordings are not shared, full interview transcripts are not publicly released, and all participant data have been pseudonymized.
 MT versions of the ST excerpts were generated using Google Translate, DeepL and ChatGPT. Translations were generated using publicly accessible web interfaces in 2024. Since these are commercial black-box systems, outputs may differ in future versions of the systems.

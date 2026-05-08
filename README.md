@@ -8,6 +8,7 @@ If you use this repository, please cite accordingly.
 - PE task materials (ST fragments and background information, MT outputs and instructions, consent form)
 - PE data (docx) > currently only available upon reasonable request
 - Metaphor edits (xlsx) > currently only available upon reasonable request
+- Metaphor annotations (SAV) > retrieved from VU Amsterdam Metaphor Corpus via Oxford Text archives: https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2541
 - Interview transcripts (docx) > currently only available upon reasonable request
 - Coding scheme ATLAS.ti > currently only available upon reasonable request
 
